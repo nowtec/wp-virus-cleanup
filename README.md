@@ -93,7 +93,7 @@ If the sites are located in the same directory but in a subfolder like “public
 <p align="left">
     If you get affected by a vulnerability of a plugin, or your Wordpress website , we can prov
  </p>
-<p align="left">(<a href="https://nowtec.solutions/products/nowsite/">File a support request</a>)</p>
+<p align="left"><a href="https://nowtec.solutions/products/nowsite/">File a support request</a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
